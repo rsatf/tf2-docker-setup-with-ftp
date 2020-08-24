@@ -1,5 +1,5 @@
 # TF2 Docker Setup with FTP
-Alternative docker setup using docker-compose and an ftp service to make it easy to change config
+A basic Team Fortress 2 docker setup using docker-compose and an ftp service to make it easy to change config
 
 ## Requirements
 * An SRCDS token for tf2
